@@ -1,0 +1,46 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.center{
+    margin-top: 100px;
+    width: 400px;
+    height: auto;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+p{
+    text-align: left; 
+}
+#s1{
+    margin: 0px 0 10px 0;
+    width: 375px;
+    text-align: right;
+    border-radius: 10px;
+}
+#s2{
+    margin: 0px 0 10px 0;
+    width: 375px;
+    text-align: right;
+    border-radius: 10px;
+
+}
+
+div button{
+    margin-right: 10px;
+    
+    border-radius: 10px;
+}
+#sonuc{
+    margin: 0px 0 10px 0;
+    width: 375px;
+    text-align: right;
+    border-radius: 10px;
+
+}
